@@ -1,0 +1,29 @@
+* hello world
+
+** fn main() { println("Hello world"); }
+
+*** functions use the `fn` keyword
+
+*** println! will print text to STDOUT
+
+* compiling
+
+** run ghe rust compiler, rustc:
+
+*** rustc hello.rs
+      
+* Organizing a Rust Project Directory
+
+** create dir for each project 
+
+** create a src subdir for Rust code
+
+* Creating & Running a Project w/ Cargo 
+
+** cargo new <project name>
+     
+** instead of using rustc you can use `cargo run` 
+
+** 
+
+
